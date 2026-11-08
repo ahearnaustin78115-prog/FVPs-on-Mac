@@ -1,0 +1,21 @@
+{
+  "name": "miniature-train",
+  "version": "1.0.0",
+  "description": "This repository contains scripts that enable Arm Virtual Hardware FVPs to run via Docker on MacOS.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "private": "true",
+  "dependencies": {
+    "@supabase/ssr": "^0.12.7",
+    "@supabase/supabase-js": "^2.119.0"
+  }
+}
